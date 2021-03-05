@@ -2,7 +2,7 @@
 
 [![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
 [![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE.txt)
-
+https://github.com/rasbt/python-machine-learning-book-3rd-edition
 
 
 **Python Machine Learning, 3rd Ed.**  
